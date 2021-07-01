@@ -1,0 +1,26 @@
+{
+  "technicien": [
+    {
+      "name": "Freddy",
+      "lastname": "Michel",
+      "dateBirth": "1992-06-30",
+      "mobile": "0342124319",
+      "rue": "Tana",
+      "ville": "tana",
+      "pays": "Madagascar",
+      "email": "michelfreddy1992@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mie",
+      "lastname": "Sam Razaf",
+      "dateBirth": "1996-12-03",
+      "mobile": "0331224521",
+      "rue": "Tana",
+      "ville": "Pekin",
+      "pays": "Chine",
+      "email": "miesamraz@gmail.com",
+      "id": 2
+    }
+  ]
+}
