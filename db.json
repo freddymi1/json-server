@@ -1,19 +1,19 @@
 {
   "technicien": [
     {
-      "name": "Freddy",
+      "name": "Freddy ",
       "lastname": "Michel",
       "dateBirth": "1992-06-30",
-      "mobile": "0342124319",
-      "rue": "Tana",
-      "ville": "tana",
+      "mobile": "0342124315",
+      "rue": "Tanjombato",
+      "ville": "Tana",
       "pays": "Madagascar",
       "email": "michelfreddy1992@gmail.com",
       "id": 1
     },
     {
       "name": "Mie",
-      "lastname": "Sam Razaf",
+      "lastname": "Sam",
       "dateBirth": "1996-12-03",
       "mobile": "0331224521",
       "rue": "Tana",
@@ -21,6 +21,134 @@
       "pays": "Chine",
       "email": "miesamraz@gmail.com",
       "id": 2
+    },
+    {
+      "name": "Jessica",
+      "lastname": "Ramaroson",
+      "dateBirth": "1997-07-07",
+      "mobile": "0341224541",
+      "rue": "Tana",
+      "ville": "Tana",
+      "pays": "Mada",
+      "email": "jess@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rakoto",
+      "lastname": "Be",
+      "dateBirth": "1995-05-03",
+      "mobile": "0321242541",
+      "rue": "Bira",
+      "ville": "Bira",
+      "pays": "Mada",
+      "email": "rakotobe@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Lita",
+      "lastname": "kely",
+      "dateBirth": "1995-12-06",
+      "mobile": "0331216541",
+      "rue": "Fianarantsoa",
+      "ville": "Fianaratsoa",
+      "pays": "Mada",
+      "email": "lita@yahoo.fr",
+      "id": 5
+    },
+    {
+      "name": "Balita",
+      "lastname": "Kely",
+      "dateBirth": "1990-04-05",
+      "mobile": "0394512451",
+      "rue": "Tana",
+      "ville": "Tana",
+      "pays": "Mada",
+      "email": "balita@yahoo.fr",
+      "id": 6
+    },
+    {
+      "name": "Sendra",
+      "lastname": "B",
+      "dateBirth": "1998-10-06",
+      "mobile": "0321214541",
+      "rue": "Mahajanga",
+      "ville": "Mahajanga",
+      "pays": "Mada",
+      "email": "sendra@hotmail.com",
+      "id": 7
+    },
+    {
+      "name": "Fetra",
+      "lastname": "Raj",
+      "dateBirth": "1990-10-03",
+      "mobile": "0331245741",
+      "rue": "Ambato",
+      "ville": "Tana",
+      "pays": "Mada",
+      "email": "fetra@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Feno",
+      "lastname": "Kely",
+      "dateBirth": "1992-01-03",
+      "mobile": "0341542114",
+      "rue": "Ambato",
+      "ville": "Tana",
+      "pays": "Mada",
+      "email": "fenok@gmail.com",
+      "id": 9
+    }
+  ],
+  "task": [
+    {
+      "id": 1,
+      "designation": "Task 1",
+      "description": "Description du task 1",
+      "otherT1": "Autre titre du task 1",
+      "otherT2": "Autre titre du task 1.0"
+    },
+    {
+      "id": 2,
+      "designation": "Task 2",
+      "description": "Description du task 2",
+      "otherT1": "Autre titre du task 2",
+      "otherT2": "Autre titre du task 2.0"
+    },
+    {
+      "id": 3,
+      "designation": "Task 3",
+      "description": "Description du task 3",
+      "otherT1": "Autre titre du task 3",
+      "otherT2": "Autre titre du task 3.0"
+    },
+    {
+      "id": 4,
+      "designation": "Task 4",
+      "description": "Description du task 4",
+      "otherT1": "Autre titre du task 4",
+      "otherT2": "Autre titre du task 4.0"
+    },
+    {
+      "id": 5,
+      "designation": "Task 5",
+      "description": "Description du task 5",
+      "otherT1": "Autre titre du task 5",
+      "otherT2": "Autre titre du task 5.0"
+    },
+    {
+      "id": 6,
+      "designation": "Task 6",
+      "description": "Description du task 6",
+      "otherT1": "Autre titre du task 6",
+      "otherT2": "Autre titre du task 6.0"
+    },
+    {
+      "id": 7,
+      "designation": "Task 7",
+      "description": "Description du task 7",
+      "otherT1": "Autre titre du task 7",
+      "otherT2": "Autre titre du task 7.0"
     }
   ]
 }
