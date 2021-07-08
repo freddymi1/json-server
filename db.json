@@ -1,8 +1,8 @@
 {
   "technicien": [
     {
-      "name": "Freddy ",
-      "lastname": "Michel",
+      "name": " Narisoa",
+      "lastname": "Freddy Michel",
       "dateBirth": "1992-06-30",
       "mobile": "0342124315",
       "rue": "Tanjombato",
@@ -12,8 +12,8 @@
       "id": 1
     },
     {
-      "name": "Mie",
-      "lastname": "Sam",
+      "name": "Mie Sam",
+      "lastname": "Raz",
       "dateBirth": "1996-12-03",
       "mobile": "0331224521",
       "rue": "Tana",
@@ -98,6 +98,17 @@
       "pays": "Mada",
       "email": "fenok@gmail.com",
       "id": 9
+    },
+    {
+      "name": "Jin",
+      "lastname": "Seyon",
+      "dateBirth": "1998-10-03",
+      "mobile": "031245678",
+      "rue": "Seoul",
+      "ville": "Seoul",
+      "pays": "KS",
+      "email": "jin@yahoo.com",
+      "id": 10
     }
   ],
   "task": [
@@ -105,50 +116,117 @@
       "id": 1,
       "designation": "Task 1",
       "description": "Description du task 1",
-      "otherT1": "Autre titre du task 1",
-      "otherT2": "Autre titre du task 1.0"
+      "voiture": "4125WE 4x4",
+      "status": "A faire",
+      "travauxId": 1
     },
     {
       "id": 2,
       "designation": "Task 2",
       "description": "Description du task 2",
-      "otherT1": "Autre titre du task 2",
-      "otherT2": "Autre titre du task 2.0"
+      "voiture": "4124BE 4x4",
+      "status": "En cours",
+      "travauxId": 2
     },
     {
       "id": 3,
       "designation": "Task 3",
       "description": "Description du task 3",
-      "otherT1": "Autre titre du task 3",
-      "otherT2": "Autre titre du task 3.0"
+      "voiture": "4124BE Pigeot",
+      "status": "En cours",
+      "travauxId": 1
     },
     {
       "id": 4,
       "designation": "Task 4",
       "description": "Description du task 4",
-      "otherT1": "Autre titre du task 4",
-      "otherT2": "Autre titre du task 4.0"
+      "voiture": "4104BE Pikup",
+      "status": "En cours",
+      "travauxId": 2
     },
     {
       "id": 5,
       "designation": "Task 5",
       "description": "Description du task 5",
-      "otherT1": "Autre titre du task 5",
-      "otherT2": "Autre titre du task 5.0"
+      "voiture": "4012CEA Citroen",
+      "status": "Fait",
+      "travauxId": 2
     },
     {
       "id": 6,
       "designation": "Task 6",
       "description": "Description du task 6",
-      "otherT1": "Autre titre du task 6",
-      "otherT2": "Autre titre du task 6.0"
+      "voiture": "4010CEA Starex",
+      "status": "Fait",
+      "travauxId": 1
     },
     {
       "id": 7,
       "designation": "Task 7",
       "description": "Description du task 7",
-      "otherT1": "Autre titre du task 7",
-      "otherT2": "Autre titre du task 7.0"
+      "voiture": "4010CEA Volvo",
+      "status": "A faire",
+      "travauxId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Freddy",
+      "lastName": "Michel",
+      "email": "michelfreddy1992@gmail.com",
+      "role": "Admin",
+      "password": "Pass1234"
+    },
+    {
+        "id": 2,
+        "name": "Michel",
+        "lastName": "Freddy",
+        "email": "michelfreddys@gmail.com",
+        "role": "Other",
+        "password": "Pass1234"
+    },
+    {
+      "id": 3,
+      "name": "Jess",
+      "lastName": "Jessi",
+      "email": "jess@gmail.com",
+      "role": "Admin",
+      "password": "Pass1234"
+    }
+  ],
+  "travaux": [
+    {
+      "id": 1,
+      "libele": "Travaux x",
+      "description": "Desc travau 1",
+      "dateEntre": "4-07-2021",
+      "taskNbr": 5
+    },
+    {
+    "id": 2,
+    "libele": "Travaux y",
+    "description": "Desc travau 2",
+    "dateEntre": "6-07-2021",
+    "taskNbr": 10
+    }
+  ],
+  "techTask": [
+    {
+      "id": 1,
+      "taskId": 1,
+      "libele": "Task and tech 1",
+      "techId": 2,
+      "startDate": "7/8/21 12:40",
+      "endDate": "7/10/21 12:40"
+    },
+    {
+      "id": 2,
+      "taskId": 3,
+      "libele": "Task and tech 3",
+      "techId": 1,
+      "startDate": "7/8/21 12:40",
+      "endDate": "7/9/21 12:40"
     }
   ]
 }
