@@ -7,7 +7,7 @@
       "mobile": "0342124315",
       "rue": "Tanjombato",
       "ville": "Tana",
-      "pays": "Madagascar",
+      "pays": "Mada",
       "email": "michelfreddy1992@gmail.com",
       "id": 1
     },
@@ -179,12 +179,12 @@
       "password": "Pass1234"
     },
     {
-        "id": 2,
-        "name": "Michel",
-        "lastName": "Freddy",
-        "email": "michelfreddys@gmail.com",
-        "role": "Other",
-        "password": "Pass1234"
+      "id": 2,
+      "name": "Michel",
+      "lastName": "Freddy",
+      "email": "michelfreddys@gmail.com",
+      "role": "Other",
+      "password": "Pass1234"
     },
     {
       "id": 3,
@@ -204,11 +204,11 @@
       "taskNbr": 5
     },
     {
-    "id": 2,
-    "libele": "Travaux y",
-    "description": "Desc travau 2",
-    "dateEntre": "6-07-2021",
-    "taskNbr": 10
+      "id": 2,
+      "libele": "Travaux y",
+      "description": "Desc travau 2",
+      "dateEntre": "6-07-2021",
+      "taskNbr": 10
     }
   ],
   "techTask": [
