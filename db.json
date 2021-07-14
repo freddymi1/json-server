@@ -12,28 +12,6 @@
       "id": 1
     },
     {
-      "name": "Mie Sam",
-      "lastname": "Raz",
-      "dateBirth": "1996-12-03",
-      "mobile": "0331224521",
-      "rue": "Tana",
-      "ville": "Pekin",
-      "pays": "Chine",
-      "email": "miesamraz@gmail.com",
-      "id": 2
-    },
-    {
-      "name": "Jessica",
-      "lastname": "Ramaroson",
-      "dateBirth": "1997-07-07",
-      "mobile": "0341224541",
-      "rue": "Tana",
-      "ville": "Tana",
-      "pays": "Mada",
-      "email": "jess@gmail.com",
-      "id": 3
-    },
-    {
       "name": "Rakoto",
       "lastname": "Be",
       "dateBirth": "1995-05-03",
@@ -172,26 +150,26 @@
   "users": [
     {
       "id": 1,
-      "name": "Freddy",
-      "lastName": "Michel",
-      "email": "michelfreddy1992@gmail.com",
+      "name": "Administrator",
+      "lastName": "Admin",
+      "username": "Admin",
       "role": "Admin",
       "password": "Pass1234"
     },
     {
       "id": 2,
-      "name": "Michel",
-      "lastName": "Freddy",
-      "email": "michelfreddys@gmail.com",
-      "role": "Other",
+      "name": "Technicien",
+      "lastName": "Tech",
+      "username": "Tech",
+      "role": "Technicien",
       "password": "Pass1234"
     },
     {
       "id": 3,
-      "name": "Jess",
-      "lastName": "Jessi",
-      "email": "jess@gmail.com",
-      "role": "Admin",
+      "name": "Collaborator",
+      "lastName": "Collab",
+      "username": "Collab",
+      "role": "Collaborator",
       "password": "Pass1234"
     }
   ],
