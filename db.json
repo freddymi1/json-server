@@ -153,6 +153,7 @@
       "name": "Administrator",
       "lastName": "Admin",
       "username": "Admin",
+      "poste": "Post1",
       "role": "Admin",
       "password": "Pass1234"
     },
@@ -161,6 +162,7 @@
       "name": "Technicien",
       "lastName": "Tech",
       "username": "Tech",
+      "poste": "Post2",
       "role": "Technicien",
       "password": "Pass1234"
     },
@@ -169,6 +171,7 @@
       "name": "Collaborator",
       "lastName": "Collab",
       "username": "Collab",
+      "poste": "Post3",
       "role": "Collaborator",
       "password": "Pass1234"
     }
