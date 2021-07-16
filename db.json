@@ -217,16 +217,16 @@
       "taskId": 1,
       "libele": "Task and tech 1",
       "techId": 2,
-      "startDate": "7-8-21 12:40:08",
-      "endDate": "7-10-21 12:40:50"
+      "StartTime": "7-8-21",
+      "EndTime": "7-10-21"
     },
     {
       "id": 2,
       "taskId": 3,
       "libele": "Task and tech 3",
       "techId": 1,
-      "startDate": "7-8-21 12:40:30",
-      "endDate": "7-9-21 12:40:20"
+      "StartTime": "7-8-21 12:40:30",
+      "EndTime": "7-9-21 12:40:20"
     }
   ]
 }
