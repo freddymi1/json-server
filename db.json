@@ -87,6 +87,28 @@
       "pays": "KS",
       "email": "jin@yahoo.com",
       "id": 10
+    },
+    {
+      "name": "Tech2",
+      "lastname": "Tectct",
+      "dateBirth": "1996-02-03",
+      "mobile": "02311456",
+      "rue": "Tana",
+      "ville": "Ytana",
+      "pays": "Mada",
+      "email": "tec1@yahoo.fr",
+      "id": 11
+    },
+    {
+      "name": "Tech",
+      "lastname": "Tech1",
+      "dateBirth": "1998-12-03",
+      "mobile": "0341546781",
+      "rue": "Tana",
+      "ville": "Tana",
+      "pays": "Mada",
+      "email": "tech@yahoo.fr",
+      "id": 12
     }
   ],
   "task": [
@@ -153,7 +175,6 @@
       "name": "Administrator",
       "lastName": "Admin",
       "username": "Admin",
-      "poste": "Post1",
       "role": "Admin",
       "password": "Pass1234"
     },
@@ -162,7 +183,6 @@
       "name": "Technicien",
       "lastName": "Tech",
       "username": "Tech",
-      "poste": "Post2",
       "role": "Technicien",
       "password": "Pass1234"
     },
@@ -171,7 +191,6 @@
       "name": "Collaborator",
       "lastName": "Collab",
       "username": "Collab",
-      "poste": "Post3",
       "role": "Collaborator",
       "password": "Pass1234"
     }
@@ -198,16 +217,16 @@
       "taskId": 1,
       "libele": "Task and tech 1",
       "techId": 2,
-      "startDate": "7/8/21 12:40",
-      "endDate": "7/10/21 12:40"
+      "startDate": "7-8-21 12:40:08",
+      "endDate": "7-10-21 12:40:50"
     },
     {
       "id": 2,
       "taskId": 3,
       "libele": "Task and tech 3",
       "techId": 1,
-      "startDate": "7/8/21 12:40",
-      "endDate": "7/9/21 12:40"
+      "startDate": "7-8-21 12:40:30",
+      "endDate": "7-9-21 12:40:20"
     }
   ]
 }
