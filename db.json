@@ -228,5 +228,25 @@
       "StartTime": "7-8-21 12:40:30",
       "EndTime": "7-9-21 12:40:20"
     }
+  ],
+  "clients":[
+    {
+      "id":1,
+      "name": "Client 1",
+      "lastname": "Clt",
+      "email": "clt@test.io"
+    },
+    {
+      "id":2,
+      "name": "Client 3",
+      "lastname": "Clt",
+      "email": "clt@test.io"
+    },
+    {
+      "id":3,
+      "name": "Client 2",
+      "lastname": "Clt",
+      "email": "clt@test.io"
+    }
   ]
 }
